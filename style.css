@@ -193,4 +193,8 @@ footer {
     .hero p {
         font-size: 1rem;
     }
+
+    .map-container {
+    margin-top: 2rem;
+}
 }
